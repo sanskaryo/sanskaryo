@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaryo&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaryo" alt="sanskaryo" /></a> </p>
+
 
 - 🔭 I’m currently working on **Computer vision**
 
-- 🌱 I’m currently learning **Java/DSA analytics web3**
+- 🌱 I’m currently learning **Java/DSA Machine Learning **
 
-- 👯 I’m looking to collaborate on **Data science and ML web3**
+- 👯 I’m looking to collaborate on **Data science ,Iot and web3**
 
 - 💬 Ask me about **Life**
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskar-khandelwal-611249210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-khandelwal-611249210/" height="30" width="40" /></a>
 <a href="https://instagram.com/sankhuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankhuz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sanskar khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanskar khandelwal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/qu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thequirkydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qu" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sankhuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sankhuz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sankhuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankhuz" height="30" width="40" /></a>
 <a href="https://discord.gg/Conjuring.eth#6116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Conjuring.eth#6116" height="30" width="40" /></a>
