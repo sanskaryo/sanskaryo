@@ -11,16 +11,26 @@
 </p>
 
 ---
-### 👨‍💻 About Me:
+###
 
-- 🔭 Currently working on **Computer Vision Projects**
-- 🌱 Learning **Java, DSA, Machine Learning**
-- 🤝 Open to collaborating on **Data Science, IoT, Web3**
-- 💬 Ask me about **Life and Tech**
-- 📧 Reach me at **sanskar.chain@gmail.com**
-- ⚡ Fun fact: **I prefer code over bio!**
 
----
+
+👨‍💻 About Me:
+
+🔭 Exploring Computer Vision and its real-world applications.
+
+🌱 Currently diving into Java, Data Structures, and Machine Learning.
+
+🤝 Always open to Generative AI, IoT, and Web3 collaborations.
+
+💬 Happy to chat about technology,Binge watch or just life in general.
+
+📧 Reach me anytime at sanskar.chain@gmail.com.
+
+⚡ Fun fact: I'd rather write code than describe myself!
+
+
+
 <br><br>     
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
