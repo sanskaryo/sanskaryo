@@ -101,6 +101,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryo&theme=radical" alt="GitHub Streak" />
 </p>
 
+### Hacktoberfest 💚
+
+[![An image of @sanskaryo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanskaryo)](https://holopin.io/@sanskaryo)
+
 ---
 <p align="center">
   <img src="https://github.com/sanskaryo/sanskaryo/blob/main/github_readme/images/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Cool GIF" />
