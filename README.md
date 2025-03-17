@@ -81,11 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaryo&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
-### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaryo&theme=radical" alt="GitHub Streak" width="70%"/>
-</p>
 
 ### 🌱 Hacktoberfest Badges
 
