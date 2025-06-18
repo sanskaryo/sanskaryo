@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskaryo&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryo" />
   <img src="https://img.shields.io/github/followers/sanskaryo?label=Followers" alt="GitHub Followers" />
-  <a href="https://github.com/sanskaryo/Resume/blob/main/resume_final_sanskar.pdf">
+  <a href="https://github.com/sanskaryo/Resume/blob/main/SANSKAR_khandelwal_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blue" alt="Resume" />
   </a>
 </p>
