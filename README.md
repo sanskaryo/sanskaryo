@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently exploring **Agentic AI** and its real-world applications.
+- 🔭 Currently working as intern at IIT Ropar's Centre of excellence of AI.
 - 🌱 Deepening skills in **Machine Learning**, **Data Structures**, and **German**.
 - 🤝 Open to collaborating on **Generative AI**, **IoT**, and **Web3** projects.
 - 💬 Happy to chat about **Crypto**, **binge-worthy shows**, or just **life** in general.
