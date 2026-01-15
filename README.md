@@ -1,18 +1,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" alt="Hey Everyone!">
 </p>
+
 <h1 align="center">Hi 👋, I'm Sanskar</h1>
 <h3 align="center">"Winter is coming... but so is my next big project!"</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskaryo&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaryo" />
+  
   <img src="https://img.shields.io/github/followers/sanskaryo?label=Followers" alt="GitHub Followers" />
-  <a href="https://github.com/sanskaryo/Resume/blob/main/SANSKAR_khandelwal_resume.pdf">
+
+  <a href="https://www.sanskarkhandelwal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://github.com/sanskaryo/Resume/blob/main/SANSKAR_khandelwal_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-blue" alt="Resume" />
   </a>
 </p>
 
----
 
 ### 👨‍💻 About Me
 
