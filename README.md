@@ -28,26 +28,6 @@
 - 💬 Happy to chat about **Crypto**, **binge-worthy shows**, or just **life** in general.
 - 📧 Reach me anytime at **sanskar.chain@gmail.com**.
 
----
-
-### ⚡ Fun Fact
-**I am a Part Time Meme Coin Trader and NFT Degen**
-
-
-   
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<br>     
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanskaryo&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 ---
 
