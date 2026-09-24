@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as intern at IIT Ropar's Centre of excellence of AI.
+- 🔭 Currently working as intern at Nokia , Ex - Annam.ai.
 - 🌱 Deepening skills in **Machine Learning**, **Data Structures**, and **German**.
 - 🤝 Open to collaborating on **Generative AI**, **IoT**, and **ML** projects.
-- 💬 Happy to chat about **Crypto**, **binge-worthy shows**, or just **life** in general.
+- 💬 Happy to chat about **Finance**, **binge-worthy shows**, or just **life** in general.
 - 📧 Reach me anytime at **sanskar.chain@gmail.com**.
 
 
